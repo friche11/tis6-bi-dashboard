@@ -1,0 +1,21 @@
+Nome,Dono,Estrelas,Maturidade (anos),Arquivos de Teste
+elasticsearch,elastic,72549.0,15.24,85.0
+Java,TheAlgorithms,61511.0,8.8,1213.0
+Stirling-PDF,Stirling-Tools,57479.0,2.27,36.0
+RxJava,ReactiveX,48112.0,12.32,1881.0
+dbeaver,dbeaver,43387.0,9.54,64.0
+JCSprout,crossoverJie,27105.0,7.38,52.0
+keycloak,keycloak,26962.0,11.84,88.0
+fastjson,alibaba,25767.0,13.51,3060.0
+incubator-seata,apache,25618.0,6.35,31.0
+bazel,bazelbuild,24016.0,10.9,2683.0
+jenkins,jenkinsci,23907.0,14.45,445.0
+jdk,openjdk,20953.0,6.63,2552.0
+HikariCP,brettwooldridge,20416.0,11.58,106.0
+shardingsphere,apache,20211.0,9.3,574.0
+mybatis-3,mybatis,20055.0,12.22,747.0
+Algorithms,williamfiset,17883.0,8.13,155.0
+disruptor,LMAX-Exchange,17774.0,12.62,100.0
+JustAuth,justauth,16919.0,6.26,26.0
+material-components-android,material-components,16712.0,8.41,48.0
+supertokens-core,supertokens,14089.0,5.33,326.0

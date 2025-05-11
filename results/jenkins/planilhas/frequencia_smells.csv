@@ -1,0 +1,22 @@
+Test Smell,Frequência Absoluta,Frequência Relativa (%)
+Assertion Roulette,3166,41.14
+Magic Number Test,1381,17.94
+Lazy Test,490,6.37
+Eager Test,463,6.02
+Duplicate Assert,409,5.31
+Sensitive Equality,347,4.51
+Unknown Test,293,3.81
+Conditional Test Logic,281,3.65
+Verbose Test,230,2.99
+Resource Optimism,152,1.98
+Mystery Guest,145,1.88
+Exception Catching Throwing,144,1.87
+Print Statement,49,0.64
+Sleepy Test,46,0.6
+IgnoredTest,45,0.58
+General Fixture,39,0.51
+Redundant Assertion,13,0.17
+Constructor Initialization,3,0.04
+Dependent Test,0,0.0
+EmptyTest,0,0.0
+Default Test,0,0.0

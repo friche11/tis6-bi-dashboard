@@ -1,0 +1,22 @@
+Test Smell,Total,% Refatorados (M3)
+Assertion Roulette,2598,3.19
+Magic Number Test,1424,0.0
+Exception Catching Throwing,580,6.72
+Eager Test,561,0.0
+Lazy Test,433,0.0
+Duplicate Assert,324,0.0
+Unknown Test,243,6.17
+Conditional Test Logic,202,0.0
+Sensitive Equality,192,0.0
+Resource Optimism,115,0.0
+Verbose Test,106,0.0
+IgnoredTest,96,0.0
+Redundant Assertion,61,0.0
+Mystery Guest,43,0.0
+General Fixture,31,0.0
+Constructor Initialization,2,0.0
+EmptyTest,2,0.0
+Sleepy Test,1,0.0
+Dependent Test,0,
+Default Test,0,
+Print Statement,0,inf

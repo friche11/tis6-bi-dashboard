@@ -1,0 +1,22 @@
+test_smell,smell_frequency,Frequência Relativa (%),refactor_frequency,refactorations
+Assertion Roulette,2598,37.04,83,"ReplaceAssertTrueWithAssertFalse, ReplaceAssertFalseWithAssertTrue, AddAssertionMessage"
+Magic Number Test,1424,20.3,0,
+Exception Catching Throwing,580,8.27,39,ReplaceTryCatchWithAssertThrows
+Eager Test,561,8.0,0,
+Lazy Test,433,6.17,0,
+Duplicate Assert,324,4.62,0,
+Unknown Test,243,3.46,15,RenameTestClass
+Conditional Test Logic,202,2.88,0,
+Sensitive Equality,192,2.74,0,
+Resource Optimism,115,1.64,0,
+Verbose Test,106,1.51,0,
+IgnoredTest,96,1.37,0,
+Redundant Assertion,61,0.87,0,
+Mystery Guest,43,0.61,0,
+General Fixture,31,0.44,0,
+Constructor Initialization,2,0.03,0,
+EmptyTest,2,0.03,0,
+Sleepy Test,1,0.01,0,ReplaceSleepWithAwaitility
+Dependent Test,0,0.0,0,
+Default Test,0,0.0,0,
+Print Statement,0,0.0,14,RemoveRedundantPrint

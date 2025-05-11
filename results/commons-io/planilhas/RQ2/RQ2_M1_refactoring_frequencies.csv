@@ -1,0 +1,7 @@
+refactoring,frequency
+AddAssertionMessage,78
+ReplaceTryCatchWithAssertThrows,39
+RemoveIgnoredTest,24
+RenameTestClass,15
+RemoveRedundantPrint,14
+ReplaceAssertTrueWithAssertFalse,5
